@@ -152,4 +152,14 @@ bool LLParse::IsNoterminal(std::string str)
 		}
 	}
 	return false;
-}
+}s
+
+
+
+sadfsd
+f
+sfd
+
+sdf
+
+fs
